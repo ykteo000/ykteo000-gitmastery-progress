@@ -113,5 +113,14 @@
       "You might have forgotten to push your commit to the remote repository."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786461879.974038,
+    "completed_at": 1786461885.175118,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
