@@ -158,5 +158,14 @@
       "D:\\TRACKED CS2103T GIT\\gitmastery-home\\gitmastery-exercises\\clone-repo\\shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786528907.208758,
+    "completed_at": 1786528911.820006,
+    "comments": [
+      "The remote 'origin' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
