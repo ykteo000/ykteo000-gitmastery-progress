@@ -348,5 +348,15 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787884394.122699,
+    "completed_at": 1787884398.119524,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
