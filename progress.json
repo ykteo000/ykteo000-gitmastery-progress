@@ -394,5 +394,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787901790.471754,
+    "completed_at": 1787901794.457627,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got 'Squashed commit of the following:\n\ncommit b82a60f0676891c02b72db3be26b42013446e306\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:37:32 2025 +0800\n\n    Add missing period\n\ncommit bb28e06601a161ad15b4052f39d0b6e6d9bfbaf5\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:36:43 2025 +0800\n\n    Mention feature for deleting books' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
